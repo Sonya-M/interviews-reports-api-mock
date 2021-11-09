@@ -20,5 +20,8 @@
     "json-server-auth": "^2.0.2",
     "nodemon": "^2.0.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+    "engines": {
+    "node": "14.x"
+  }
 }
