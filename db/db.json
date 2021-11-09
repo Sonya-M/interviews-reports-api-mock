@@ -34,69 +34,117 @@
   "candidates": [
     {
       "id": 9451057,
-      "name": "Zula Feeney",
-      "birthday": "Tue Sep 12 2017 16:57:16 GMT+0200 (CEST)",
-      "email": "Mathew.Schultz6@yahoo.com",
+      "name": "Howard Wolowitz",
+      "birthday": "Tue Sep 8 1981 16:57:16 GMT+0200 (CEST)",
+      "email": "wolowizard@yahoo.com",
       "education": "Belgrade Institute of Technology",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xadhix/128.jpg"
+      "avatar": "https://i.imgur.com/1OzZChP.png"
     },
     {
       "id": 88648435,
-      "name": "Mireya Beahan IV",
-      "birthday": "Mon Feb 27 2017 05:26:30 GMT+0100 (CET)",
-      "email": "Armani_Goldner61@hotmail.com",
+      "name": "Bernadette Rostenkowski",
+      "birthday": "Mon Jun 23 1980 05:26:30 GMT+0100 (CET)",
+      "email": "bernadette61@gmail.com",
       "education": "Belgrade Institute of Technology",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleksitappura/128.jpg"
+      "avatar": "https://i.imgur.com/vTbRqAR.png"
     },
     {
       "id": 99087456,
-      "name": "Carolina Bahringer",
-      "birthday": "Fri Nov 17 2017 05:50:30 GMT+0100 (CET)",
-      "email": "Miller_Bauch@yahoo.com",
+      "name": "Sheldon Cooper",
+      "birthday": "Tue Feb 26 1980 05:50:30 GMT+0100 (CET)",
+      "email": "bazzinga@yahoo.com",
       "education": "Belgrade Institute of Technology",
-      "avatar": ""
+      "avatar": "https://openpsychometrics.org/tests/characters/test-resources/pics/BBT/2.jpg"
     },
     {
       "id": 66318927,
-      "name": "Lourdes Kuhn",
-      "birthday": "Tue Aug 29 2017 04:35:15 GMT+0200 (CEST)",
-      "email": "Leonel33@gmail.com",
+      "name": "Amy Farrah Fowler",
+      "birthday": "Mon Dec 17 1979 04:35:15 GMT+0200 (CEST)",
+      "email": "shamy33@gmail.com",
       "education": "Faculty of Electrical Engineering",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/eitarafa/128.jpg"
+      "avatar": "https://i.imgur.com/wRRXLB3.png"
     },
     {
       "id": 89091536,
-      "name": "Brennon Rolfson",
-      "birthday": "Mon Feb 06 2017 14:22:06 GMT+0100 (CET)",
-      "email": "Alexa_Veum@hotmail.com",
+      "name": "Leonard Hofstadter",
+      "birthday": "Sat May 17 1980 14:22:06 GMT+0100 (CET)",
+      "email": "leonard737@hotmail.com",
       "education": "Belgrade Institute of Technology",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/javorszky/128.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/2654852680/87ee5ed912ea7364a29a380be9b22285.jpeg"
     },
     {
       "id": 6496882,
-      "name": "Jeanette Mohr",
-      "birthday": "Tue Dec 12 2017 11:33:07 GMT+0100 (CET)",
-      "email": "Joseph_Terry35@hotmail.com",
+      "name": "Penny Hofstadter",
+      "birthday": "Mon Dec 02 1985 11:33:07 GMT+0100 (CET)",
+      "email": "cheesecake_factory@live.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://i.imgur.com/Y9Y1rvd.png"
+    },
+    {
+      "id": 6546762,
+      "name": "Raj Koothrappali",
+      "birthday": "Tue Oct 06 1981 17:39:27 GMT+0100 (CET)",
+      "email": "ramayan@live.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://pbs.twimg.com/profile_images/453567890009358336/DPLGqK-x.jpeg"
+    },
+    {
+      "id": 3548162,
+      "name": "Debbie Wolowitz",
+      "birthday": "Sat Feb 02 1952 07:39:27 GMT+0100 (CET)",
+      "email": "debbie@gmail.com",
       "education": "Belgrade Institute of Technology",
       "avatar": ""
+    },
+    {
+      "id": 4848167,
+      "name": "Stuart Bloom",
+      "birthday": "Sat Dec 04 1970 12:19:41 GMT+0100 (CET)",
+      "email": "comicbookstore@gmail.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://marriedceleb.com/uploads/biography/2020/9/16/kevin-sussman-1600249284140.jpg"
+    },
+    {
+      "id": 6842145,
+      "name": "Beverly Hofstadter",
+      "birthday": "Sat May 02 1959 15:19:41 GMT+0100 (CET)",
+      "email": "dr.hofstader@gmail.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://i.imgur.com/SZodzQK.png"
+    },
+    {
+      "id": 9948567,
+      "name": "Wil Wheaton",
+      "birthday": "Sat Jul 29 1972 19:49:41 GMT+0100 (CET)",
+      "email": "wheaton@gmail.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://i.imgur.com/TYe7unm.png"
+    },
+    {
+      "id": 9041364,
+      "name": "Mary Cooper",
+      "birthday": "Thu Jun 16 1955 19:49:41 GMT+0100 (CET)",
+      "email": "marry@gmail.com",
+      "education": "Belgrade Institute of Technology",
+      "avatar": "https://i.imgur.com/AEmmGIW.png"
     }
   ],
   "reports": [
     {
-      "id": 33060290,
       "candidateId": 9451057,
-      "candidateName": "Zula Feeney",
-      "companyId": 92859858,
-      "companyName": "Volkman - Schimmel",
-      "interviewDate": "Fri Jan 10 2018 20:13:29 GMT+0100 (CET)",
-      "phase": "hr",
-      "status": "passed",
-      "note": "Rerum accusantium expedita consequatur quo non error et. Animi consequatur magnam et impedit. Beatae et voluptatem labore repudiandae labore totam ut esse. Cum quidem in nobis et necessitatibus reiciendis officia voluptas. Quia aut dignissimos totam ut. Ut quo non nam quaerat consequatur quo qui."
+      "candidateName": "Howard Wolowitz",
+      "companyId": 35251209,
+      "companyName": "Konopelski - Romaguera",
+      "interviewDate": "2018-01-10",
+      "phase": "CV",
+      "status": "Passed",
+      "note": "Rerum accusantium expedita consequatur quo non error et. Animi consequatur magnam et impedit. Beatae et voluptatem labore repudiandae labore totam ut esse. Cum quidem in nobis et necessitatibus reiciendis officia voluptas. Quia aut dignissimos totam ut. Ut quo non nam quaerat consequatur quo qui.",
+      "id": 33060290
     },
     {
       "id": 62339440,
       "candidateId": 9451057,
-      "candidateName": "Zula Feeney",
+      "candidateName": "Howard Wolowitz",
       "companyId": 92859858,
       "companyName": "Volkman - Schimmel",
       "interviewDate": "Fri Jan 11 2018 15:23:09 GMT+0100 (CET)",
@@ -107,13 +155,134 @@
     {
       "id": 61646703,
       "candidateId": 66318927,
-      "candidateName": "Lourdes Kuhn",
+      "candidateName": "Amy Farrah Fowler",
       "companyId": 11081915,
       "companyName": "Krajcik Inc",
       "interviewDate": "Fri Jan 12 2018 08:39:19 GMT+0100 (CET)",
       "phase": "cv",
       "status": "declined",
       "note": "Velit facilis sint pariatur et accusantium. Quia consectetur quo distinctio vel quae voluptas aliquam id. Qui fugit blanditiis consequatur porro qui est."
+    },
+    {
+      "candidateId": 99087456,
+      "candidateName": "Sheldon Cooper",
+      "companyId": 11081915,
+      "companyName": "Krajcik Inc",
+      "interviewDate": "2021-10-06",
+      "phase": "CV",
+      "status": "Declined",
+      "note": "Yada yada yada bla bla bla lorem ipsum",
+      "id": 62339453
+    },
+    {
+      "candidateId": 66318927,
+      "candidateName": "Amy Farrah Fowler",
+      "companyId": 34149463,
+      "companyName": "Wintheiser - Padberg",
+      "interviewDate": "2021-10-06",
+      "phase": "Final",
+      "status": "Declined",
+      "note": "No good!",
+      "id": 62339454
+    },
+    {
+      "candidateId": 88648435,
+      "candidateName": "Bernadette Rostenkowski",
+      "companyId": 35251209,
+      "companyName": "Konopelski - Romaguera",
+      "interviewDate": "2021-10-05",
+      "phase": "Tech",
+      "status": "Passed",
+      "note": "Bravo!",
+      "id": 62339455
+    },
+    {
+      "candidateId": 99087456,
+      "candidateName": "Sheldon Cooper",
+      "companyId": 35251209,
+      "companyName": "Konopelski - Romaguera",
+      "interviewDate": "2021-09-27",
+      "phase": "HR",
+      "status": "Declined",
+      "note": "Bad bad bad!",
+      "id": 62339456
+    },
+    {
+      "candidateId": 9451057,
+      "candidateName": "Howard Wolowitz",
+      "companyId": 11081915,
+      "companyName": "Krajcik Inc",
+      "interviewDate": "2021-10-07",
+      "phase": "Tech",
+      "status": "Passed",
+      "note": "Bla bla bla again...",
+      "id": 62339457
+    },
+    {
+      "candidateId": 6546762,
+      "candidateName": "Raj Koothrappali",
+      "companyId": 92859858,
+      "companyName": "Volkman - Schimmel",
+      "interviewDate": "2021-10-09",
+      "phase": "Final",
+      "status": "Passed",
+      "note": "Accepted! And edited!",
+      "id": 62339459
+    },
+    {
+      "candidateId": 88648435,
+      "candidateName": "Bernadette Rostenkowski",
+      "companyId": 34149463,
+      "companyName": "Wintheiser - Padberg",
+      "interviewDate": "2021-10-09",
+      "phase": "Tech",
+      "status": "Declined",
+      "note": "Don't know how she got to this phase in the first place!",
+      "id": 62339460
+    },
+    {
+      "candidateId": 3548162,
+      "candidateName": "Debbie Wolowitz",
+      "companyId": 41822931,
+      "companyName": "Leffler, Kulas and Schulist",
+      "interviewDate": "2021-10-09",
+      "phase": "Final",
+      "status": "Passed",
+      "note": "Absolutely great!",
+      "id": 62339461
+    },
+    {
+      "candidateId": 9451057,
+      "candidateName": "Howard Wolowitz",
+      "companyId": 41822931,
+      "companyName": "Leffler, Kulas and Schulist",
+      "interviewDate": "2021-10-10",
+      "phase": "Final",
+      "status": "Passed",
+      "note": "Excellent!",
+      "id": 62339462
+    },
+    {
+      "candidateId": 89091536,
+      "candidateName": "Leonard Hofstadter",
+      "companyId": 41822931,
+      "companyName": "Leffler, Kulas and Schulist",
+      "interviewDate": "2021-10-10",
+      "phase": "Final",
+      "status": "Passed",
+      "note": "Flying colors!",
+      "id": 62339464
+    },
+    {
+      "candidateId": 9041364,
+      "candidateName": "Mary Cooper",
+      "companyId": 92859858,
+      "companyName": "Volkman - Schimmel",
+      "interviewDate": "2021-10-18",
+      "phase": "CV",
+      "status": "Passed",
+      "note": "Absolutely great!",
+      "id": 62339465
     }
   ],
   "users": [
